@@ -106,7 +106,7 @@
 ### 4. Deploy to EKS Cluster
 
   #### 서비스 목록
-  - ![image](https://user-images.githubusercontent.com/2777247/219283372-51ec7570-7822-4e53-aeb6-ff479456c626.png)
+  - ![image](https://user-images.githubusercontent.com/2777247/219284207-b055677d-875d-4279-b1ac-705409e40f36.png)
 
 ### 5.Gateway & Service Router 설치
  #### 서비스 목록 확인
