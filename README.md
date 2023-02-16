@@ -114,10 +114,10 @@
  
 ### 6.Autoscale (HPA)
  #### autoscale 부하 발생 전 
-  - ![image](https://user-images.githubusercontent.com/2777247/219283694-df19e388-7f00-4223-aa96-72c487b899f2.png)
+  - ![image](https://user-images.githubusercontent.com/2777247/219285541-6fe96e87-690d-4877-9caa-b97c8b05c932.png)
  
  #### autoscale 부하 발생 후 
-  - ![image](https://user-images.githubusercontent.com/2777247/219283839-b3f27ed0-b7e5-412c-a398-a6d75fc6ab33.png)
+  - ![image](https://user-images.githubusercontent.com/2777247/219285604-23af7e4b-e4ee-492d-ad59-01ab1c5b75ca.png)
 
  #### Pod 증가 확인
   - ![image](https://user-images.githubusercontent.com/2777247/219283940-f4970e47-4b07-4b04-a444-9c0964125630.png)
