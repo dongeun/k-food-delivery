@@ -110,7 +110,7 @@
 
 ### 5.Gateway & Service Router 설치
  #### 서비스 목록 확인
-  - ![image](https://user-images.githubusercontent.com/2777247/219247998-a0a12d4c-2948-4a82-af1f-d383b0d84e9b.png)
+  - ![image](https://user-images.githubusercontent.com/2777247/219284422-afc2dfb3-9b2c-47cd-8ba3-f2f70bbc1367.png)
  
 ### 6.Autoscale (HPA)
  #### autoscale 부하 발생 전 
